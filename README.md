@@ -1,4 +1,4 @@
-# exoWild
+REMOTE
 
 Ceci est un exercice. 
 
