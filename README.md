@@ -1,4 +1,4 @@
-# exoWild
+LOCAL
 
 Ceci est un exercice. 
 
