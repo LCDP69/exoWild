@@ -1,4 +1,4 @@
-LOCAL
+LOCAL 
 
 Ceci est un exercice. 
 
